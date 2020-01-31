@@ -16,8 +16,6 @@ function getDirectionsGeojson(origin, destination, stops) {
 	  	"origin": origin,
 	  	"destination": destination
 	 };
-	 if(stops) config.stops = stops;
-
 
 	//Get directions
 	googleMapsClient.directions(config,

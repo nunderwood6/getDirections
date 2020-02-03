@@ -4,6 +4,9 @@ A short Node script to get directions from point A to point B and save as geojso
 
 # More info:
 https://github.com/googlemaps/google-maps-services-js
+
 https://github.com/mapbox/polyline
+
 https://googlemaps.github.io/google-maps-services-js/docs/GoogleMapsClient.html
+
 http://zevross.com/blog/2014/09/23/convert-google-directions-to-geojson-points-or-polylines/

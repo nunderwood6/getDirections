@@ -6,16 +6,20 @@
 const fs = require('fs');
 const polyline = require('polyline');
 const googleMapsClient = require('@google/maps').createClient({
-  key: 'YOUR API KEY'
+  key: 'YOUR API KEY HERE'
 });
 
-
-function getDirectionsGeojson(origin, destination, stops) {
+//pass string, string, array
+function getDirectionsGeojson(origin, destination, waypoints) {
 	
 	var config = {
 	  	"origin": origin,
 	  	"destination": destination
 	 };
+	 
+	 if(waypoints){
+	 	config.waypoints = waypoints;
+	 }
 
 	//Get directions
 	googleMapsClient.directions(config,
@@ -52,10 +56,21 @@ function getDirectionsGeojson(origin, destination, stops) {
 				}
 
 			    var data = JSON.stringify(geojson);
-			    fs.writeFileSync(`test.json`,data);
+			    fs.writeFileSync(`test1.json`,data);
 	  		}
 	});
 
 }
 
-//getDirectionsGeojson('Quetzaltenango, Guatemala', 'Nogales, AZ')
+//returns object with lat and lng properties
+function geocode(location){
+	// Geocode an address.
+	googleMapsClient.geocode({
+	  address: location
+	}, function(err, response) {
+	  if (!err) {
+	    console.log(response.json.results[0].geometry.location);
+	  }
+	});
+}
+

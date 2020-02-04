@@ -1,0 +1,3063 @@
+{"municipios": [
+  {
+    "Municipio": "Cahabón",
+    "departamento": "Alta Verapaz",
+    "mayores_m": 44,
+    "mayores_f": 5,
+    "menores_m": 3,
+    "menores_f": "",
+    "total": 52
+  },
+  {
+    "Municipio": "Chahal",
+    "departamento": "Alta Verapaz",
+    "mayores_m": 42,
+    "mayores_f": 4,
+    "menores_m": 3,
+    "menores_f": 1,
+    "total": 50
+  },
+  {
+    "Municipio": "Chisec",
+    "departamento": "Alta Verapaz",
+    "mayores_m": 173,
+    "mayores_f": 15,
+    "menores_m": 7,
+    "menores_f": 5,
+    "total": 200
+  },
+  {
+    "Municipio": "Cobán",
+    "departamento": "Alta Verapaz",
+    "mayores_m": 263,
+    "mayores_f": 28,
+    "menores_m": 15,
+    "menores_f": 5,
+    "total": 311
+  },
+  {
+    "Municipio": "Fray Bartolomé de Las Casas",
+    "departamento": "Alta Verapaz",
+    "mayores_m": 150,
+    "mayores_f": 6,
+    "menores_m": 8,
+    "menores_f": 10,
+    "total": 174
+  },
+  {
+    "Municipio": "Lanquín",
+    "departamento": "Alta Verapaz",
+    "mayores_m": 6,
+    "mayores_f": "",
+    "menores_m": 1,
+    "menores_f": "",
+    "total": 7
+  },
+  {
+    "Municipio": "Panzós",
+    "departamento": "Alta Verapaz",
+    "mayores_m": 30,
+    "mayores_f": 4,
+    "menores_m": 3,
+    "menores_f": "",
+    "total": 37
+  },
+  {
+    "Municipio": "Raxruhá",
+    "departamento": "Alta Verapaz",
+    "mayores_m": 11,
+    "mayores_f": 3,
+    "menores_m": "",
+    "menores_f": 1,
+    "total": 15
+  },
+  {
+    "Municipio": "San Cristóbal Verapaz",
+    "departamento": "Alta Verapaz",
+    "mayores_m": 19,
+    "mayores_f": 4,
+    "menores_m": "",
+    "menores_f": 1,
+    "total": 24
+  },
+  {
+    "Municipio": "San Juan Chamelco",
+    "departamento": "Alta Verapaz",
+    "mayores_m": 16,
+    "mayores_f": "",
+    "menores_m": "",
+    "menores_f": "",
+    "total": 16
+  },
+  {
+    "Municipio": "San Pedro Carchá",
+    "departamento": "Alta Verapaz",
+    "mayores_m": 176,
+    "mayores_f": 6,
+    "menores_m": 7,
+    "menores_f": 4,
+    "total": 193
+  },
+  {
+    "Municipio": "Santa Catalina La Tinta",
+    "departamento": "Alta Verapaz",
+    "mayores_m": 7,
+    "mayores_f": 1,
+    "menores_m": 1,
+    "menores_f": "",
+    "total": 9
+  },
+  {
+    "Municipio": "Santa Cruz Verapaz",
+    "departamento": "Alta Verapaz",
+    "mayores_m": 23,
+    "mayores_f": "",
+    "menores_m": "",
+    "menores_f": "",
+    "total": 23
+  },
+  {
+    "Municipio": "Senahú",
+    "departamento": "Alta Verapaz",
+    "mayores_m": 21,
+    "mayores_f": 3,
+    "menores_m": "",
+    "menores_f": "",
+    "total": 24
+  },
+  {
+    "Municipio": "Tactic",
+    "departamento": "Alta Verapaz",
+    "mayores_m": 18,
+    "mayores_f": 3,
+    "menores_m": 1,
+    "menores_f": 3,
+    "total": 25
+  },
+  {
+    "Municipio": "Tamahú",
+    "departamento": "Alta Verapaz",
+    "mayores_m": 5,
+    "mayores_f": 1,
+    "menores_m": "",
+    "menores_f": 1,
+    "total": 7
+  },
+  {
+    "Municipio": "Tucurú",
+    "departamento": "Alta Verapaz",
+    "mayores_m": 37,
+    "mayores_f": 1,
+    "menores_m": 1,
+    "menores_f": "",
+    "total": 39
+  },
+  {
+    "Municipio": "Cubulco",
+    "departamento": "Baja Verapaz",
+    "mayores_m": 349,
+    "mayores_f": 40,
+    "menores_m": 15,
+    "menores_f": 9,
+    "total": 413
+  },
+  {
+    "Municipio": "Granados",
+    "departamento": "Baja Verapaz",
+    "mayores_m": 52,
+    "mayores_f": 8,
+    "menores_m": 1,
+    "menores_f": 2,
+    "total": 63
+  },
+  {
+    "Municipio": "Purulhá",
+    "departamento": "Baja Verapaz",
+    "mayores_m": 16,
+    "mayores_f": 1,
+    "menores_m": 1,
+    "menores_f": "",
+    "total": 18
+  },
+  {
+    "Municipio": "Rabinal",
+    "departamento": "Baja Verapaz",
+    "mayores_m": 234,
+    "mayores_f": 48,
+    "menores_m": 8,
+    "menores_f": 7,
+    "total": 297
+  },
+  {
+    "Municipio": "Salamá",
+    "departamento": "Baja Verapaz",
+    "mayores_m": 337,
+    "mayores_f": 51,
+    "menores_m": 9,
+    "menores_f": 8,
+    "total": 405
+  },
+  {
+    "Municipio": "San Jerónimo",
+    "departamento": "Baja Verapaz",
+    "mayores_m": 46,
+    "mayores_f": 7,
+    "menores_m": "",
+    "menores_f": "",
+    "total": 53
+  },
+  {
+    "Municipio": "San Miguel Chicaj",
+    "departamento": "Baja Verapaz",
+    "mayores_m": 113,
+    "mayores_f": 11,
+    "menores_m": "",
+    "menores_f": 1,
+    "total": 125
+  },
+  {
+    "Municipio": "Santa Cruz El Chol",
+    "departamento": "Baja Verapaz",
+    "mayores_m": 27,
+    "mayores_f": 7,
+    "menores_m": 4,
+    "menores_f": "",
+    "total": 38
+  },
+  {
+    "Municipio": "Acatenango",
+    "departamento": "Chimaltenango",
+    "mayores_m": 72,
+    "mayores_f": 5,
+    "menores_m": 5,
+    "menores_f": 2,
+    "total": 84
+  },
+  {
+    "Municipio": "Chimaltenango",
+    "departamento": "Chimaltenango",
+    "mayores_m": 193,
+    "mayores_f": 15,
+    "menores_m": 13,
+    "menores_f": 11,
+    "total": 232
+  },
+  {
+    "Municipio": "El Tejar",
+    "departamento": "Chimaltenango",
+    "mayores_m": 7,
+    "mayores_f": 3,
+    "menores_m": "",
+    "menores_f": "",
+    "total": 10
+  },
+  {
+    "Municipio": "Parramos",
+    "departamento": "Chimaltenango",
+    "mayores_m": 11,
+    "mayores_f": 3,
+    "menores_m": 1,
+    "menores_f": "",
+    "total": 15
+  },
+  {
+    "Municipio": "Patzicía",
+    "departamento": "Chimaltenango",
+    "mayores_m": 13,
+    "mayores_f": 1,
+    "menores_m": "",
+    "menores_f": "",
+    "total": 14
+  },
+  {
+    "Municipio": "Patzún",
+    "departamento": "Chimaltenango",
+    "mayores_m": 111,
+    "mayores_f": 6,
+    "menores_m": 4,
+    "menores_f": "",
+    "total": 121
+  },
+  {
+    "Municipio": "Pochuta",
+    "departamento": "Chimaltenango",
+    "mayores_m": 9,
+    "mayores_f": "",
+    "menores_m": "",
+    "menores_f": "",
+    "total": 9
+  },
+  {
+    "Municipio": "San Andrés Itzapa",
+    "departamento": "Chimaltenango",
+    "mayores_m": 110,
+    "mayores_f": 4,
+    "menores_m": 2,
+    "menores_f": 1,
+    "total": 117
+  },
+  {
+    "Municipio": "San José Poaquíl",
+    "departamento": "Chimaltenango",
+    "mayores_m": 104,
+    "mayores_f": 13,
+    "menores_m": 8,
+    "menores_f": 2,
+    "total": 127
+  },
+  {
+    "Municipio": "San Juan Comalapa",
+    "departamento": "Chimaltenango",
+    "mayores_m": 90,
+    "mayores_f": 4,
+    "menores_m": 3,
+    "menores_f": 2,
+    "total": 99
+  },
+  {
+    "Municipio": "San Martín Jilotepeque",
+    "departamento": "Chimaltenango",
+    "mayores_m": 428,
+    "mayores_f": 58,
+    "menores_m": 10,
+    "menores_f": 10,
+    "total": 506
+  },
+  {
+    "Municipio": "San Pedro Yepocapa",
+    "departamento": "Chimaltenango",
+    "mayores_m": 9,
+    "mayores_f": 1,
+    "menores_m": 3,
+    "menores_f": "",
+    "total": 13
+  },
+  {
+    "Municipio": "Santa Apolonia",
+    "departamento": "Chimaltenango",
+    "mayores_m": 36,
+    "mayores_f": 3,
+    "menores_m": "",
+    "menores_f": 1,
+    "total": 40
+  },
+  {
+    "Municipio": "Santa Cruz Balanyá",
+    "departamento": "Chimaltenango",
+    "mayores_m": 7,
+    "mayores_f": "",
+    "menores_m": 2,
+    "menores_f": "",
+    "total": 9
+  },
+  {
+    "Municipio": "Tecpán Guatemala",
+    "departamento": "Chimaltenango",
+    "mayores_m": 275,
+    "mayores_f": 41,
+    "menores_m": 6,
+    "menores_f": 5,
+    "total": 327
+  },
+  {
+    "Municipio": "Yepocapa",
+    "departamento": "Chimaltenango",
+    "mayores_m": 36,
+    "mayores_f": 4,
+    "menores_m": "",
+    "menores_f": "",
+    "total": 40
+  },
+  {
+    "Municipio": "Zaragoza",
+    "departamento": "Chimaltenango",
+    "mayores_m": 47,
+    "mayores_f": 4,
+    "menores_m": "",
+    "menores_f": "",
+    "total": 51
+  },
+  {
+    "Municipio": "Camotán",
+    "departamento": "Chiquimula",
+    "mayores_m": 120,
+    "mayores_f": 25,
+    "menores_m": 5,
+    "menores_f": 3,
+    "total": 153
+  },
+  {
+    "Municipio": "Chiquimula",
+    "departamento": "Chiquimula",
+    "mayores_m": 419,
+    "mayores_f": 31,
+    "menores_m": 20,
+    "menores_f": 12,
+    "total": 482
+  },
+  {
+    "Municipio": "Concepción Las Minas",
+    "departamento": "Chiquimula",
+    "mayores_m": 54,
+    "mayores_f": 14,
+    "menores_m": 2,
+    "menores_f": 2,
+    "total": 72
+  },
+  {
+    "Municipio": "Esquipulas",
+    "departamento": "Chiquimula",
+    "mayores_m": 243,
+    "mayores_f": 33,
+    "menores_m": 5,
+    "menores_f": 11,
+    "total": 292
+  },
+  {
+    "Municipio": "Ipala",
+    "departamento": "Chiquimula",
+    "mayores_m": 79,
+    "mayores_f": 15,
+    "menores_m": 3,
+    "menores_f": 2,
+    "total": 99
+  },
+  {
+    "Municipio": "Jocotán",
+    "departamento": "Chiquimula",
+    "mayores_m": 186,
+    "mayores_f": 16,
+    "menores_m": 9,
+    "menores_f": 1,
+    "total": 212
+  },
+  {
+    "Municipio": "Olopa",
+    "departamento": "Chiquimula",
+    "mayores_m": 110,
+    "mayores_f": 9,
+    "menores_m": 6,
+    "menores_f": 2,
+    "total": 127
+  },
+  {
+    "Municipio": "Quetzaltenango",
+    "departamento": "Chiquimula",
+    "mayores_m": 159,
+    "mayores_f": 19,
+    "menores_m": 4,
+    "menores_f": 2,
+    "total": 184
+  },
+  {
+    "Municipio": "San Jacinto",
+    "departamento": "Chiquimula",
+    "mayores_m": 29,
+    "mayores_f": 4,
+    "menores_m": 1,
+    "menores_f": "",
+    "total": 34
+  },
+  {
+    "Municipio": "San José La Arada",
+    "departamento": "Chiquimula",
+    "mayores_m": 38,
+    "mayores_f": 7,
+    "menores_m": "",
+    "menores_f": "",
+    "total": 45
+  },
+  {
+    "Municipio": "San Juan Ermita",
+    "departamento": "Chiquimula",
+    "mayores_m": 73,
+    "mayores_f": 7,
+    "menores_m": 4,
+    "menores_f": 2,
+    "total": 86
+  },
+  {
+    "Municipio": "El Jicaro",
+    "departamento": "El Progreso",
+    "mayores_m": 16,
+    "mayores_f": 5,
+    "menores_m": "",
+    "menores_f": "",
+    "total": 21
+  },
+  {
+    "Municipio": "Guastatoya",
+    "departamento": "El Progreso",
+    "mayores_m": 95,
+    "mayores_f": 10,
+    "menores_m": 7,
+    "menores_f": 2,
+    "total": 114
+  },
+  {
+    "Municipio": "Morazán",
+    "departamento": "El Progreso",
+    "mayores_m": 31,
+    "mayores_f": 4,
+    "menores_m": "",
+    "menores_f": "",
+    "total": 35
+  },
+  {
+    "Municipio": "San Agustín Acasaguastlán",
+    "departamento": "El Progreso",
+    "mayores_m": 56,
+    "mayores_f": 4,
+    "menores_m": 1,
+    "menores_f": "",
+    "total": 61
+  },
+  {
+    "Municipio": "San Antonio La Paz",
+    "departamento": "El Progreso",
+    "mayores_m": 31,
+    "mayores_f": 2,
+    "menores_m": 1,
+    "menores_f": "",
+    "total": 34
+  },
+  {
+    "Municipio": "San Cristóbal Acasaguastlán",
+    "departamento": "El Progreso",
+    "mayores_m": 4,
+    "mayores_f": 2,
+    "menores_m": "",
+    "menores_f": "",
+    "total": 6
+  },
+  {
+    "Municipio": "Sanarate",
+    "departamento": "El Progreso",
+    "mayores_m": 76,
+    "mayores_f": 23,
+    "menores_m": 4,
+    "menores_f": 3,
+    "total": 106
+  },
+  {
+    "Municipio": "Sansare",
+    "departamento": "El Progreso",
+    "mayores_m": 21,
+    "mayores_f": 3,
+    "menores_m": "",
+    "menores_f": "",
+    "total": 24
+  },
+  {
+    "Municipio": "Escuintla",
+    "departamento": "Escuintla",
+    "mayores_m": 171,
+    "mayores_f": 35,
+    "menores_m": 9,
+    "menores_f": 17,
+    "total": 232
+  },
+  {
+    "Municipio": "Guanagazapa",
+    "departamento": "Escuintla",
+    "mayores_m": 11,
+    "mayores_f": 4,
+    "menores_m": 2,
+    "menores_f": "",
+    "total": 17
+  },
+  {
+    "Municipio": "Iztapa",
+    "departamento": "Escuintla",
+    "mayores_m": 9,
+    "mayores_f": 3,
+    "menores_m": 1,
+    "menores_f": "",
+    "total": 13
+  },
+  {
+    "Municipio": "La Democracia",
+    "departamento": "Escuintla",
+    "mayores_m": 42,
+    "mayores_f": 9,
+    "menores_m": "",
+    "menores_f": "",
+    "total": 51
+  },
+  {
+    "Municipio": "La Gomera",
+    "departamento": "Escuintla",
+    "mayores_m": 117,
+    "mayores_f": 28,
+    "menores_m": 3,
+    "menores_f": 6,
+    "total": 154
+  },
+  {
+    "Municipio": "Masagua",
+    "departamento": "Escuintla",
+    "mayores_m": 27,
+    "mayores_f": 5,
+    "menores_m": 1,
+    "menores_f": 1,
+    "total": 34
+  },
+  {
+    "Municipio": "Nueva Concepción",
+    "departamento": "Escuintla",
+    "mayores_m": 276,
+    "mayores_f": 54,
+    "menores_m": 7,
+    "menores_f": 3,
+    "total": 340
+  },
+  {
+    "Municipio": "Palín",
+    "departamento": "Escuintla",
+    "mayores_m": 37,
+    "mayores_f": 6,
+    "menores_m": 1,
+    "menores_f": 1,
+    "total": 45
+  },
+  {
+    "Municipio": "San José",
+    "departamento": "Escuintla",
+    "mayores_m": 41,
+    "mayores_f": 8,
+    "menores_m": "",
+    "menores_f": "",
+    "total": 49
+  },
+  {
+    "Municipio": "San Vicente Pacaya",
+    "departamento": "Escuintla",
+    "mayores_m": 12,
+    "mayores_f": 3,
+    "menores_m": "",
+    "menores_f": "",
+    "total": 15
+  },
+  {
+    "Municipio": "Santa Lucía Cotzumalguapa",
+    "departamento": "Escuintla",
+    "mayores_m": 126,
+    "mayores_f": 15,
+    "menores_m": 1,
+    "menores_f": 4,
+    "total": 146
+  },
+  {
+    "Municipio": "Sipacate",
+    "departamento": "Escuintla",
+    "mayores_m": 7,
+    "mayores_f": 1,
+    "menores_m": 1,
+    "menores_f": "",
+    "total": 9
+  },
+  {
+    "Municipio": "Siquinalá",
+    "departamento": "Escuintla",
+    "mayores_m": 26,
+    "mayores_f": 2,
+    "menores_m": "",
+    "menores_f": 2,
+    "total": 30
+  },
+  {
+    "Municipio": "Tiquisate",
+    "departamento": "Escuintla",
+    "mayores_m": 195,
+    "mayores_f": 45,
+    "menores_m": 10,
+    "menores_f": 8,
+    "total": 258
+  },
+  {
+    "Municipio": "Amatitlán",
+    "departamento": "Guatemala",
+    "mayores_m": 54,
+    "mayores_f": 15,
+    "menores_m": 6,
+    "menores_f": 7,
+    "total": 82
+  },
+  {
+    "Municipio": "Chinautla",
+    "departamento": "Guatemala",
+    "mayores_m": 25,
+    "mayores_f": 9,
+    "menores_m": 3,
+    "menores_f": 3,
+    "total": 40
+  },
+  {
+    "Municipio": "Chuarrancho",
+    "departamento": "Guatemala",
+    "mayores_m": 36,
+    "mayores_f": 4,
+    "menores_m": 1,
+    "menores_f": 1,
+    "total": 42
+  },
+  {
+    "Municipio": "Fraijanes",
+    "departamento": "Guatemala",
+    "mayores_m": 8,
+    "mayores_f": 4,
+    "menores_m": 3,
+    "menores_f": 2,
+    "total": 17
+  },
+  {
+    "Municipio": "Guatemala",
+    "departamento": "Guatemala",
+    "mayores_m": "1,157",
+    "mayores_f": 207,
+    "menores_m": 77,
+    "menores_f": 76,
+    "total": "1,517"
+  },
+  {
+    "Municipio": "Mixco",
+    "departamento": "Guatemala",
+    "mayores_m": 116,
+    "mayores_f": 16,
+    "menores_m": 8,
+    "menores_f": 3,
+    "total": 143
+  },
+  {
+    "Municipio": "Palencia",
+    "departamento": "Guatemala",
+    "mayores_m": 138,
+    "mayores_f": 20,
+    "menores_m": "",
+    "menores_f": 2,
+    "total": 160
+  },
+  {
+    "Municipio": "San José del Golfo",
+    "departamento": "Guatemala",
+    "mayores_m": 13,
+    "mayores_f": 5,
+    "menores_m": 1,
+    "menores_f": "",
+    "total": 19
+  },
+  {
+    "Municipio": "San José Pinula",
+    "departamento": "Guatemala",
+    "mayores_m": 63,
+    "mayores_f": 5,
+    "menores_m": 2,
+    "menores_f": 1,
+    "total": 71
+  },
+  {
+    "Municipio": "San Juan Sacatepéquez",
+    "departamento": "Guatemala",
+    "mayores_m": 231,
+    "mayores_f": 26,
+    "menores_m": 5,
+    "menores_f": 5,
+    "total": 267
+  },
+  {
+    "Municipio": "San Miguel Petapa",
+    "departamento": "Guatemala",
+    "mayores_m": 27,
+    "mayores_f": 6,
+    "menores_m": 2,
+    "menores_f": 3,
+    "total": 38
+  },
+  {
+    "Municipio": "San Pedro Ayampuc",
+    "departamento": "Guatemala",
+    "mayores_m": 42,
+    "mayores_f": 7,
+    "menores_m": "",
+    "menores_f": "",
+    "total": 49
+  },
+  {
+    "Municipio": "San Pedro Sacatepéquez",
+    "departamento": "Guatemala",
+    "mayores_m": 35,
+    "mayores_f": 10,
+    "menores_m": 1,
+    "menores_f": 4,
+    "total": 50
+  },
+  {
+    "Municipio": "San Raymundo",
+    "departamento": "Guatemala",
+    "mayores_m": 111,
+    "mayores_f": 12,
+    "menores_m": 4,
+    "menores_f": 2,
+    "total": 129
+  },
+  {
+    "Municipio": "Santa Catarina Pinula",
+    "departamento": "Guatemala",
+    "mayores_m": 12,
+    "mayores_f": 1,
+    "menores_m": "",
+    "menores_f": "",
+    "total": 13
+  },
+  {
+    "Municipio": "Villa Canales",
+    "departamento": "Guatemala",
+    "mayores_m": 46,
+    "mayores_f": 17,
+    "menores_m": 3,
+    "menores_f": 1,
+    "total": 67
+  },
+  {
+    "Municipio": "Villa Nueva",
+    "departamento": "Guatemala",
+    "mayores_m": 123,
+    "mayores_f": 30,
+    "menores_m": 5,
+    "menores_f": 6,
+    "total": 164
+  },
+  {
+    "Municipio": "Aguacatán",
+    "departamento": "Huehuetenango",
+    "mayores_m": 401,
+    "mayores_f": 59,
+    "menores_m": 13,
+    "menores_f": 5,
+    "total": 478
+  },
+  {
+    "Municipio": "Chiantla",
+    "departamento": "Huehuetenango",
+    "mayores_m": 355,
+    "mayores_f": 39,
+    "menores_m": 10,
+    "menores_f": 6,
+    "total": 410
+  },
+  {
+    "Municipio": "Colotenango",
+    "departamento": "Huehuetenango",
+    "mayores_m": 319,
+    "mayores_f": 32,
+    "menores_m": 30,
+    "menores_f": 15,
+    "total": 396
+  },
+  {
+    "Municipio": "Concepción Huista",
+    "departamento": "Huehuetenango",
+    "mayores_m": 214,
+    "mayores_f": 19,
+    "menores_m": 7,
+    "menores_f": 2,
+    "total": 242
+  },
+  {
+    "Municipio": "Cuilco",
+    "departamento": "Huehuetenango",
+    "mayores_m": 497,
+    "mayores_f": 56,
+    "menores_m": 36,
+    "menores_f": 18,
+    "total": 607
+  },
+  {
+    "Municipio": "Huehuetenango",
+    "departamento": "Huehuetenango",
+    "mayores_m": 408,
+    "mayores_f": 64,
+    "menores_m": 28,
+    "menores_f": 22,
+    "total": 522
+  },
+  {
+    "Municipio": "Jacaltenango",
+    "departamento": "Huehuetenango",
+    "mayores_m": 260,
+    "mayores_f": 14,
+    "menores_m": 11,
+    "menores_f": 8,
+    "total": 293
+  },
+  {
+    "Municipio": "La Democracia",
+    "departamento": "Huehuetenango",
+    "mayores_m": 254,
+    "mayores_f": 34,
+    "menores_m": 16,
+    "menores_f": 8,
+    "total": 312
+  },
+  {
+    "Municipio": "La Libertad",
+    "departamento": "Huehuetenango",
+    "mayores_m": 283,
+    "mayores_f": 28,
+    "menores_m": 14,
+    "menores_f": 10,
+    "total": 335
+  },
+  {
+    "Municipio": "Malacatancito",
+    "departamento": "Huehuetenango",
+    "mayores_m": 89,
+    "mayores_f": 13,
+    "menores_m": 1,
+    "menores_f": 2,
+    "total": 105
+  },
+  {
+    "Municipio": "Nentón",
+    "departamento": "Huehuetenango",
+    "mayores_m": 168,
+    "mayores_f": 17,
+    "menores_m": 14,
+    "menores_f": 8,
+    "total": 207
+  },
+  {
+    "Municipio": "San Antonio Huista",
+    "departamento": "Huehuetenango",
+    "mayores_m": 102,
+    "mayores_f": 10,
+    "menores_m": 9,
+    "menores_f": 3,
+    "total": 124
+  },
+  {
+    "Municipio": "San Gaspar Ixchil",
+    "departamento": "Huehuetenango",
+    "mayores_m": 119,
+    "mayores_f": 9,
+    "menores_m": 1,
+    "menores_f": 1,
+    "total": 130
+  },
+  {
+    "Municipio": "San Ildefonso Ixtahuacán",
+    "departamento": "Huehuetenango",
+    "mayores_m": 163,
+    "mayores_f": 18,
+    "menores_m": 10,
+    "menores_f": 2,
+    "total": 193
+  },
+  {
+    "Municipio": "San Juan Atitán",
+    "departamento": "Huehuetenango",
+    "mayores_m": 197,
+    "mayores_f": 27,
+    "menores_m": 10,
+    "menores_f": 13,
+    "total": 247
+  },
+  {
+    "Municipio": "San Juan Ixcoy",
+    "departamento": "Huehuetenango",
+    "mayores_m": 245,
+    "mayores_f": 27,
+    "menores_m": 11,
+    "menores_f": 7,
+    "total": 290
+  },
+  {
+    "Municipio": "San Mateo Ixtatán",
+    "departamento": "Huehuetenango",
+    "mayores_m": 444,
+    "mayores_f": 29,
+    "menores_m": 8,
+    "menores_f": 5,
+    "total": 486
+  },
+  {
+    "Municipio": "San Miguel Acatán",
+    "departamento": "Huehuetenango",
+    "mayores_m": 276,
+    "mayores_f": 45,
+    "menores_m": 10,
+    "menores_f": 9,
+    "total": 340
+  },
+  {
+    "Municipio": "San Pedro Nécta",
+    "departamento": "Huehuetenango",
+    "mayores_m": 254,
+    "mayores_f": 35,
+    "menores_m": 23,
+    "menores_f": 17,
+    "total": 329
+  },
+  {
+    "Municipio": "San Pedro Soloma",
+    "departamento": "Huehuetenango",
+    "mayores_m": 337,
+    "mayores_f": 21,
+    "menores_m": 15,
+    "menores_f": 7,
+    "total": 380
+  },
+  {
+    "Municipio": "San Rafael La Independencia",
+    "departamento": "Huehuetenango",
+    "mayores_m": 106,
+    "mayores_f": 10,
+    "menores_m": 8,
+    "menores_f": 3,
+    "total": 127
+  },
+  {
+    "Municipio": "San Rafael Pétzal",
+    "departamento": "Huehuetenango",
+    "mayores_m": 53,
+    "mayores_f": 4,
+    "menores_m": 5,
+    "menores_f": 2,
+    "total": 64
+  },
+  {
+    "Municipio": "San Sebastián Coatán",
+    "departamento": "Huehuetenango",
+    "mayores_m": 200,
+    "mayores_f": 26,
+    "menores_m": 10,
+    "menores_f": 10,
+    "total": 246
+  },
+  {
+    "Municipio": "San Sebastián Huehuetenango",
+    "departamento": "Huehuetenango",
+    "mayores_m": 137,
+    "mayores_f": 18,
+    "menores_m": 9,
+    "menores_f": 6,
+    "total": 170
+  },
+  {
+    "Municipio": "Santa Ana Huista",
+    "departamento": "Huehuetenango",
+    "mayores_m": 56,
+    "mayores_f": 10,
+    "menores_m": 3,
+    "menores_f": 4,
+    "total": 73
+  },
+  {
+    "Municipio": "Santa Bárbara",
+    "departamento": "Huehuetenango",
+    "mayores_m": 230,
+    "mayores_f": 19,
+    "menores_m": 8,
+    "menores_f": 5,
+    "total": 262
+  },
+  {
+    "Municipio": "Santa Cruz Barillas",
+    "departamento": "Huehuetenango",
+    "mayores_m": 387,
+    "mayores_f": 52,
+    "menores_m": 38,
+    "menores_f": 23,
+    "total": 500
+  },
+  {
+    "Municipio": "Santa Eulalia",
+    "departamento": "Huehuetenango",
+    "mayores_m": 231,
+    "mayores_f": 23,
+    "menores_m": 17,
+    "menores_f": 10,
+    "total": 281
+  },
+  {
+    "Municipio": "Santiago Chimaltenango",
+    "departamento": "Huehuetenango",
+    "mayores_m": 30,
+    "mayores_f": 6,
+    "menores_m": 2,
+    "menores_f": "",
+    "total": 38
+  },
+  {
+    "Municipio": "Tectitán",
+    "departamento": "Huehuetenango",
+    "mayores_m": 82,
+    "mayores_f": 11,
+    "menores_m": 3,
+    "menores_f": 2,
+    "total": 98
+  },
+  {
+    "Municipio": "Todos Santos Cuchumatán",
+    "departamento": "Huehuetenango",
+    "mayores_m": 246,
+    "mayores_f": 36,
+    "menores_m": 6,
+    "menores_f": 12,
+    "total": 300
+  },
+  {
+    "Municipio": "Unión Cantinil",
+    "departamento": "Huehuetenango",
+    "mayores_m": 128,
+    "mayores_f": 9,
+    "menores_m": 7,
+    "menores_f": 1,
+    "total": 145
+  },
+  {
+    "Municipio": "El Estor",
+    "departamento": "Izabal",
+    "mayores_m": 46,
+    "mayores_f": 6,
+    "menores_m": 4,
+    "menores_f": 2,
+    "total": 58
+  },
+  {
+    "Municipio": "Livingston",
+    "departamento": "Izabal",
+    "mayores_m": 140,
+    "mayores_f": 14,
+    "menores_m": 4,
+    "menores_f": 6,
+    "total": 164
+  },
+  {
+    "Municipio": "Los Amates",
+    "departamento": "Izabal",
+    "mayores_m": 193,
+    "mayores_f": 37,
+    "menores_m": 3,
+    "menores_f": 6,
+    "total": 239
+  },
+  {
+    "Municipio": "Morales",
+    "departamento": "Izabal",
+    "mayores_m": 317,
+    "mayores_f": 50,
+    "menores_m": 10,
+    "menores_f": 6,
+    "total": 383
+  },
+  {
+    "Municipio": "Puerto Barrios",
+    "departamento": "Izabal",
+    "mayores_m": 212,
+    "mayores_f": 35,
+    "menores_m": 8,
+    "menores_f": 6,
+    "total": 261
+  },
+  {
+    "Municipio": "Jalapa",
+    "departamento": "Jalapa",
+    "mayores_m": 514,
+    "mayores_f": 69,
+    "menores_m": 19,
+    "menores_f": 24,
+    "total": 626
+  },
+  {
+    "Municipio": "Mataquescuintla",
+    "departamento": "Jalapa",
+    "mayores_m": 144,
+    "mayores_f": 26,
+    "menores_m": 9,
+    "menores_f": 10,
+    "total": 189
+  },
+  {
+    "Municipio": "Monjas",
+    "departamento": "Jalapa",
+    "mayores_m": 76,
+    "mayores_f": 15,
+    "menores_m": "",
+    "menores_f": 1,
+    "total": 92
+  },
+  {
+    "Municipio": "San Carlos Alzatate",
+    "departamento": "Jalapa",
+    "mayores_m": 40,
+    "mayores_f": 12,
+    "menores_m": 1,
+    "menores_f": "",
+    "total": 53
+  },
+  {
+    "Municipio": "San Luis Jilotepeque",
+    "departamento": "Jalapa",
+    "mayores_m": 139,
+    "mayores_f": 17,
+    "menores_m": 1,
+    "menores_f": "",
+    "total": 157
+  },
+  {
+    "Municipio": "San Manuel Chaparrón",
+    "departamento": "Jalapa",
+    "mayores_m": 39,
+    "mayores_f": 5,
+    "menores_m": "",
+    "menores_f": "",
+    "total": 44
+  },
+  {
+    "Municipio": "San Pedro Pinula",
+    "departamento": "Jalapa",
+    "mayores_m": 221,
+    "mayores_f": 15,
+    "menores_m": 4,
+    "menores_f": "",
+    "total": 240
+  },
+  {
+    "Municipio": "Agua Blanca",
+    "departamento": "Jutiapa",
+    "mayores_m": 82,
+    "mayores_f": 9,
+    "menores_m": "",
+    "menores_f": "",
+    "total": 91
+  },
+  {
+    "Municipio": "Asunción Mita",
+    "departamento": "Jutiapa",
+    "mayores_m": 181,
+    "mayores_f": 30,
+    "menores_m": "",
+    "menores_f": 1,
+    "total": 212
+  },
+  {
+    "Municipio": "Atescatempa",
+    "departamento": "Jutiapa",
+    "mayores_m": 48,
+    "mayores_f": 10,
+    "menores_m": "",
+    "menores_f": 1,
+    "total": 59
+  },
+  {
+    "Municipio": "Comapa",
+    "departamento": "Jutiapa",
+    "mayores_m": 121,
+    "mayores_f": 10,
+    "menores_m": 3,
+    "menores_f": 2,
+    "total": 136
+  },
+  {
+    "Municipio": "Conguaco",
+    "departamento": "Jutiapa",
+    "mayores_m": 62,
+    "mayores_f": 13,
+    "menores_m": 2,
+    "menores_f": 1,
+    "total": 78
+  },
+  {
+    "Municipio": "El Adelanto",
+    "departamento": "Jutiapa",
+    "mayores_m": 36,
+    "mayores_f": 5,
+    "menores_m": "",
+    "menores_f": "",
+    "total": 41
+  },
+  {
+    "Municipio": "El Progreso",
+    "departamento": "Jutiapa",
+    "mayores_m": 96,
+    "mayores_f": 12,
+    "menores_m": "",
+    "menores_f": "",
+    "total": 108
+  },
+  {
+    "Municipio": "Jalpatagua",
+    "departamento": "Jutiapa",
+    "mayores_m": 117,
+    "mayores_f": 15,
+    "menores_m": 1,
+    "menores_f": 1,
+    "total": 134
+  },
+  {
+    "Municipio": "Jerez",
+    "departamento": "Jutiapa",
+    "mayores_m": 6,
+    "mayores_f": 2,
+    "menores_m": "",
+    "menores_f": "",
+    "total": 8
+  },
+  {
+    "Municipio": "Jutiapa",
+    "departamento": "Jutiapa",
+    "mayores_m": 484,
+    "mayores_f": 88,
+    "menores_m": 9,
+    "menores_f": 14,
+    "total": 595
+  },
+  {
+    "Municipio": "Moyuta",
+    "departamento": "Jutiapa",
+    "mayores_m": 183,
+    "mayores_f": 37,
+    "menores_m": 7,
+    "menores_f": 6,
+    "total": 233
+  },
+  {
+    "Municipio": "Pasaco",
+    "departamento": "Jutiapa",
+    "mayores_m": 26,
+    "mayores_f": 6,
+    "menores_m": "",
+    "menores_f": "",
+    "total": 32
+  },
+  {
+    "Municipio": "Quesada",
+    "departamento": "Jutiapa",
+    "mayores_m": 88,
+    "mayores_f": 10,
+    "menores_m": "",
+    "menores_f": "",
+    "total": 98
+  },
+  {
+    "Municipio": "San José Acatempa",
+    "departamento": "Jutiapa",
+    "mayores_m": 57,
+    "mayores_f": 4,
+    "menores_m": 3,
+    "menores_f": 1,
+    "total": 65
+  },
+  {
+    "Municipio": "Santa Catarina Mita",
+    "departamento": "Jutiapa",
+    "mayores_m": 115,
+    "mayores_f": 21,
+    "menores_m": 3,
+    "menores_f": 2,
+    "total": 141
+  },
+  {
+    "Municipio": "Yupiltepeque",
+    "departamento": "Jutiapa",
+    "mayores_m": 43,
+    "mayores_f": 5,
+    "menores_m": 1,
+    "menores_f": "",
+    "total": 49
+  },
+  {
+    "Municipio": "Zapotitlán",
+    "departamento": "Jutiapa",
+    "mayores_m": 44,
+    "mayores_f": 5,
+    "menores_m": 1,
+    "menores_f": 1,
+    "total": 51
+  },
+  {
+    "Municipio": "Dolores",
+    "departamento": "Petén",
+    "mayores_m": 147,
+    "mayores_f": 30,
+    "menores_m": 6,
+    "menores_f": 2,
+    "total": 185
+  },
+  {
+    "Municipio": "El Chal",
+    "departamento": "Petén",
+    "mayores_m": 1,
+    "mayores_f": 1,
+    "menores_m": 2,
+    "menores_f": "",
+    "total": 4
+  },
+  {
+    "Municipio": "Flores",
+    "departamento": "Petén",
+    "mayores_m": 128,
+    "mayores_f": 25,
+    "menores_m": 1,
+    "menores_f": 3,
+    "total": 157
+  },
+  {
+    "Municipio": "La Libertad",
+    "departamento": "Petén",
+    "mayores_m": 314,
+    "mayores_f": 60,
+    "menores_m": 24,
+    "menores_f": 14,
+    "total": 412
+  },
+  {
+    "Municipio": "Las Cruces",
+    "departamento": "Petén",
+    "mayores_m": 67,
+    "mayores_f": 8,
+    "menores_m": 4,
+    "menores_f": 3,
+    "total": 82
+  },
+  {
+    "Municipio": "Melchor de Mencos",
+    "departamento": "Petén",
+    "mayores_m": 55,
+    "mayores_f": 10,
+    "menores_m": 6,
+    "menores_f": 4,
+    "total": 75
+  },
+  {
+    "Municipio": "Poptún",
+    "departamento": "Petén",
+    "mayores_m": 189,
+    "mayores_f": 26,
+    "menores_m": 11,
+    "menores_f": 11,
+    "total": 237
+  },
+  {
+    "Municipio": "San Andrés",
+    "departamento": "Petén",
+    "mayores_m": 74,
+    "mayores_f": 13,
+    "menores_m": 5,
+    "menores_f": 3,
+    "total": 95
+  },
+  {
+    "Municipio": "San Benito",
+    "departamento": "Petén",
+    "mayores_m": 107,
+    "mayores_f": 21,
+    "menores_m": 14,
+    "menores_f": 8,
+    "total": 150
+  },
+  {
+    "Municipio": "San Francisco",
+    "departamento": "Petén",
+    "mayores_m": 27,
+    "mayores_f": 2,
+    "menores_m": 1,
+    "menores_f": 2,
+    "total": 32
+  },
+  {
+    "Municipio": "San José",
+    "departamento": "Petén",
+    "mayores_m": 3,
+    "mayores_f": 4,
+    "menores_m": "",
+    "menores_f": "",
+    "total": 7
+  },
+  {
+    "Municipio": "San Luis",
+    "departamento": "Petén",
+    "mayores_m": 253,
+    "mayores_f": 43,
+    "menores_m": 13,
+    "menores_f": 5,
+    "total": 314
+  },
+  {
+    "Municipio": "Santa Ana",
+    "departamento": "Petén",
+    "mayores_m": 85,
+    "mayores_f": 13,
+    "menores_m": 2,
+    "menores_f": 4,
+    "total": 104
+  },
+  {
+    "Municipio": "Sayaxché",
+    "departamento": "Petén",
+    "mayores_m": 305,
+    "mayores_f": 47,
+    "menores_m": 26,
+    "menores_f": 11,
+    "total": 389
+  },
+  {
+    "Municipio": "Almolonga",
+    "departamento": "Quetzaltenango",
+    "mayores_m": 81,
+    "mayores_f": 10,
+    "menores_m": 2,
+    "menores_f": 3,
+    "total": 96
+  },
+  {
+    "Municipio": "Cabricán",
+    "departamento": "Quetzaltenango",
+    "mayores_m": 211,
+    "mayores_f": 61,
+    "menores_m": 6,
+    "menores_f": 4,
+    "total": 282
+  },
+  {
+    "Municipio": "Cajolá",
+    "departamento": "Quetzaltenango",
+    "mayores_m": 148,
+    "mayores_f": 55,
+    "menores_m": 1,
+    "menores_f": 6,
+    "total": 210
+  },
+  {
+    "Municipio": "Cantel",
+    "departamento": "Quetzaltenango",
+    "mayores_m": 106,
+    "mayores_f": 9,
+    "menores_m": 2,
+    "menores_f": "",
+    "total": 117
+  },
+  {
+    "Municipio": "Coatepeque",
+    "departamento": "Quetzaltenango",
+    "mayores_m": 487,
+    "mayores_f": 82,
+    "menores_m": 14,
+    "menores_f": 11,
+    "total": 594
+  },
+  {
+    "Municipio": "Colomba",
+    "departamento": "Quetzaltenango",
+    "mayores_m": 137,
+    "mayores_f": 18,
+    "menores_m": 1,
+    "menores_f": 1,
+    "total": 157
+  },
+  {
+    "Municipio": "Concepción Chiquirichapa",
+    "departamento": "Quetzaltenango",
+    "mayores_m": 156,
+    "mayores_f": 53,
+    "menores_m": 4,
+    "menores_f": 3,
+    "total": 216
+  },
+  {
+    "Municipio": "El Palmar",
+    "departamento": "Quetzaltenango",
+    "mayores_m": 105,
+    "mayores_f": 21,
+    "menores_m": "",
+    "menores_f": 2,
+    "total": 128
+  },
+  {
+    "Municipio": "Flores Costa Cuca",
+    "departamento": "Quetzaltenango",
+    "mayores_m": 76,
+    "mayores_f": 20,
+    "menores_m": 2,
+    "menores_f": "",
+    "total": 98
+  },
+  {
+    "Municipio": "Génova",
+    "departamento": "Quetzaltenango",
+    "mayores_m": 275,
+    "mayores_f": 58,
+    "menores_m": 3,
+    "menores_f": 2,
+    "total": 338
+  },
+  {
+    "Municipio": "Huitán",
+    "departamento": "Quetzaltenango",
+    "mayores_m": 154,
+    "mayores_f": 32,
+    "menores_m": 2,
+    "menores_f": 3,
+    "total": 191
+  },
+  {
+    "Municipio": "La Esperanza",
+    "departamento": "Quetzaltenango",
+    "mayores_m": 44,
+    "mayores_f": 5,
+    "menores_m": 2,
+    "menores_f": "",
+    "total": 51
+  },
+  {
+    "Municipio": "Olintepeque",
+    "departamento": "Quetzaltenango",
+    "mayores_m": 113,
+    "mayores_f": 10,
+    "menores_m": "",
+    "menores_f": "",
+    "total": 123
+  },
+  {
+    "Municipio": "Palestina de Los Altos",
+    "departamento": "Quetzaltenango",
+    "mayores_m": 194,
+    "mayores_f": 44,
+    "menores_m": 4,
+    "menores_f": 4,
+    "total": 246
+  },
+  {
+    "Municipio": "Quetzaltenango",
+    "departamento": "Quetzaltenango",
+    "mayores_m": 581,
+    "mayores_f": 118,
+    "menores_m": 31,
+    "menores_f": 29,
+    "total": 759
+  },
+  {
+    "Municipio": "Salcajá",
+    "departamento": "Quetzaltenango",
+    "mayores_m": 51,
+    "mayores_f": 6,
+    "menores_m": 3,
+    "menores_f": "",
+    "total": 60
+  },
+  {
+    "Municipio": "San Carlos Sija",
+    "departamento": "Quetzaltenango",
+    "mayores_m": 251,
+    "mayores_f": 45,
+    "menores_m": 1,
+    "menores_f": 2,
+    "total": 299
+  },
+  {
+    "Municipio": "San Francisco La Unión",
+    "departamento": "Quetzaltenango",
+    "mayores_m": 46,
+    "mayores_f": 13,
+    "menores_m": "",
+    "menores_f": 3,
+    "total": 62
+  },
+  {
+    "Municipio": "San Juan Ostuncalco",
+    "departamento": "Quetzaltenango",
+    "mayores_m": 323,
+    "mayores_f": 105,
+    "menores_m": 4,
+    "menores_f": 4,
+    "total": 436
+  },
+  {
+    "Municipio": "San Martín Sacatepéquez",
+    "departamento": "Quetzaltenango",
+    "mayores_m": 201,
+    "mayores_f": 44,
+    "menores_m": 1,
+    "menores_f": 1,
+    "total": 247
+  },
+  {
+    "Municipio": "San Mateo",
+    "departamento": "Quetzaltenango",
+    "mayores_m": 30,
+    "mayores_f": 5,
+    "menores_m": "",
+    "menores_f": 2,
+    "total": 37
+  },
+  {
+    "Municipio": "San Miguel Siguilá",
+    "departamento": "Quetzaltenango",
+    "mayores_m": 55,
+    "mayores_f": 21,
+    "menores_m": "",
+    "menores_f": "",
+    "total": 76
+  },
+  {
+    "Municipio": "Sibilia",
+    "departamento": "Quetzaltenango",
+    "mayores_m": 91,
+    "mayores_f": 16,
+    "menores_m": 3,
+    "menores_f": 1,
+    "total": 111
+  },
+  {
+    "Municipio": "Zunil",
+    "departamento": "Quetzaltenango",
+    "mayores_m": 47,
+    "mayores_f": 12,
+    "menores_m": "",
+    "menores_f": 3,
+    "total": 62
+  },
+  {
+    "Municipio": "Canillá",
+    "departamento": "Quiché",
+    "mayores_m": 87,
+    "mayores_f": 13,
+    "menores_m": 2,
+    "menores_f": 1,
+    "total": 103
+  },
+  {
+    "Municipio": "Chajul",
+    "departamento": "Quiché",
+    "mayores_m": 347,
+    "mayores_f": 20,
+    "menores_m": 20,
+    "menores_f": 4,
+    "total": 391
+  },
+  {
+    "Municipio": "Chicamán",
+    "departamento": "Quiché",
+    "mayores_m": 118,
+    "mayores_f": 8,
+    "menores_m": 4,
+    "menores_f": 2,
+    "total": 132
+  },
+  {
+    "Municipio": "Chiché",
+    "departamento": "Quiché",
+    "mayores_m": 83,
+    "mayores_f": 8,
+    "menores_m": 3,
+    "menores_f": "",
+    "total": 94
+  },
+  {
+    "Municipio": "Chichicastenango",
+    "departamento": "Quiché",
+    "mayores_m": 562,
+    "mayores_f": 43,
+    "menores_m": 13,
+    "menores_f": 1,
+    "total": 619
+  },
+  {
+    "Municipio": "Chinique",
+    "departamento": "Quiché",
+    "mayores_m": 32,
+    "mayores_f": 7,
+    "menores_m": 2,
+    "menores_f": "",
+    "total": 41
+  },
+  {
+    "Municipio": "Chisec",
+    "departamento": "Quiché",
+    "mayores_m": 2,
+    "mayores_f": "",
+    "menores_m": 1,
+    "menores_f": 1,
+    "total": 4
+  },
+  {
+    "Municipio": "Cunén",
+    "departamento": "Quiché",
+    "mayores_m": 270,
+    "mayores_f": 12,
+    "menores_m": 9,
+    "menores_f": 4,
+    "total": 295
+  },
+  {
+    "Municipio": "Ixcán",
+    "departamento": "Quiché",
+    "mayores_m": 221,
+    "mayores_f": 41,
+    "menores_m": 16,
+    "menores_f": 16,
+    "total": 294
+  },
+  {
+    "Municipio": "Joyabaj",
+    "departamento": "Quiché",
+    "mayores_m": 950,
+    "mayores_f": 110,
+    "menores_m": 25,
+    "menores_f": 17,
+    "total": "1,102"
+  },
+  {
+    "Municipio": "Nebaj",
+    "departamento": "Quiché",
+    "mayores_m": 566,
+    "mayores_f": 77,
+    "menores_m": 21,
+    "menores_f": 11,
+    "total": 675
+  },
+  {
+    "Municipio": "Pachalum",
+    "departamento": "Quiché",
+    "mayores_m": 32,
+    "mayores_f": 5,
+    "menores_m": 1,
+    "menores_f": "",
+    "total": 38
+  },
+  {
+    "Municipio": "Patzité",
+    "departamento": "Quiché",
+    "mayores_m": 23,
+    "mayores_f": 1,
+    "menores_m": 1,
+    "menores_f": "",
+    "total": 25
+  },
+  {
+    "Municipio": "Sacapulas",
+    "departamento": "Quiché",
+    "mayores_m": 288,
+    "mayores_f": 19,
+    "menores_m": 7,
+    "menores_f": 1,
+    "total": 315
+  },
+  {
+    "Municipio": "San Andrés Sajcabajá",
+    "departamento": "Quiché",
+    "mayores_m": 115,
+    "mayores_f": 24,
+    "menores_m": 14,
+    "menores_f": 2,
+    "total": 155
+  },
+  {
+    "Municipio": "San Antonio Ilotenango",
+    "departamento": "Quiché",
+    "mayores_m": 99,
+    "mayores_f": 13,
+    "menores_m": 10,
+    "menores_f": 7,
+    "total": 129
+  },
+  {
+    "Municipio": "San Bartolomé Jocotenango",
+    "departamento": "Quiché",
+    "mayores_m": 9,
+    "mayores_f": 1,
+    "menores_m": 1,
+    "menores_f": "",
+    "total": 11
+  },
+  {
+    "Municipio": "San Juan Cotzal",
+    "departamento": "Quiché",
+    "mayores_m": 94,
+    "mayores_f": 6,
+    "menores_m": 3,
+    "menores_f": 3,
+    "total": 106
+  },
+  {
+    "Municipio": "San Pedro Jocopilas",
+    "departamento": "Quiché",
+    "mayores_m": 30,
+    "mayores_f": 5,
+    "menores_m": "",
+    "menores_f": "",
+    "total": 35
+  },
+  {
+    "Municipio": "Santa Cruz del Quiché",
+    "departamento": "Quiché",
+    "mayores_m": 204,
+    "mayores_f": 24,
+    "menores_m": 8,
+    "menores_f": 8,
+    "total": 244
+  },
+  {
+    "Municipio": "Uspantán",
+    "departamento": "Quiché",
+    "mayores_m": 298,
+    "mayores_f": 24,
+    "menores_m": 20,
+    "menores_f": 9,
+    "total": 351
+  },
+  {
+    "Municipio": "Zacualpa",
+    "departamento": "Quiché",
+    "mayores_m": 260,
+    "mayores_f": 32,
+    "menores_m": 10,
+    "menores_f": 9,
+    "total": 311
+  },
+  {
+    "Municipio": "Champerico",
+    "departamento": "Retalhuleu",
+    "mayores_m": 126,
+    "mayores_f": 33,
+    "menores_m": 4,
+    "menores_f": 6,
+    "total": 169
+  },
+  {
+    "Municipio": "El Asintal",
+    "departamento": "Retalhuleu",
+    "mayores_m": 194,
+    "mayores_f": 43,
+    "menores_m": 2,
+    "menores_f": 1,
+    "total": 240
+  },
+  {
+    "Municipio": "Nuevo San Carlos",
+    "departamento": "Retalhuleu",
+    "mayores_m": 134,
+    "mayores_f": 18,
+    "menores_m": 2,
+    "menores_f": 2,
+    "total": 156
+  },
+  {
+    "Municipio": "Retalhuleu",
+    "departamento": "Retalhuleu",
+    "mayores_m": 337,
+    "mayores_f": 62,
+    "menores_m": 18,
+    "menores_f": 11,
+    "total": 428
+  },
+  {
+    "Municipio": "San Andrés Villa Seca",
+    "departamento": "Retalhuleu",
+    "mayores_m": 140,
+    "mayores_f": 19,
+    "menores_m": 6,
+    "menores_f": 3,
+    "total": 168
+  },
+  {
+    "Municipio": "San Felipe",
+    "departamento": "Retalhuleu",
+    "mayores_m": 49,
+    "mayores_f": 5,
+    "menores_m": 3,
+    "menores_f": "",
+    "total": 57
+  },
+  {
+    "Municipio": "San Martín Zapotitlán",
+    "departamento": "Retalhuleu",
+    "mayores_m": 18,
+    "mayores_f": 2,
+    "menores_m": "",
+    "menores_f": "",
+    "total": 20
+  },
+  {
+    "Municipio": "San Sebastián",
+    "departamento": "Retalhuleu",
+    "mayores_m": 55,
+    "mayores_f": 8,
+    "menores_m": "",
+    "menores_f": 1,
+    "total": 64
+  },
+  {
+    "Municipio": "Santa Cruz Muluá",
+    "departamento": "Retalhuleu",
+    "mayores_m": 41,
+    "mayores_f": 1,
+    "menores_m": "",
+    "menores_f": "",
+    "total": 42
+  },
+  {
+    "Municipio": "Alotenango",
+    "departamento": "Sacatepéquez",
+    "mayores_m": 5,
+    "mayores_f": "",
+    "menores_m": "",
+    "menores_f": "",
+    "total": 5
+  },
+  {
+    "Municipio": "Antigua Guatemala",
+    "departamento": "Sacatepéquez",
+    "mayores_m": 43,
+    "mayores_f": 4,
+    "menores_m": 4,
+    "menores_f": 3,
+    "total": 54
+  },
+  {
+    "Municipio": "Ciudad Vieja",
+    "departamento": "Sacatepéquez",
+    "mayores_m": 6,
+    "mayores_f": "",
+    "menores_m": "",
+    "menores_f": "",
+    "total": 6
+  },
+  {
+    "Municipio": "Jocotenango",
+    "departamento": "Sacatepéquez",
+    "mayores_m": 1,
+    "mayores_f": "",
+    "menores_m": "",
+    "menores_f": "",
+    "total": 1
+  },
+  {
+    "Municipio": "Magdalena Milpas Altas",
+    "departamento": "Sacatepéquez",
+    "mayores_m": 1,
+    "mayores_f": "",
+    "menores_m": "",
+    "menores_f": 1,
+    "total": 2
+  },
+  {
+    "Municipio": "Pastores",
+    "departamento": "Sacatepéquez",
+    "mayores_m": 2,
+    "mayores_f": "",
+    "menores_m": "",
+    "menores_f": "",
+    "total": 2
+  },
+  {
+    "Municipio": "San Antonio Aguas Calientes",
+    "departamento": "Sacatepéquez",
+    "mayores_m": 22,
+    "mayores_f": 2,
+    "menores_m": "",
+    "menores_f": 1,
+    "total": 25
+  },
+  {
+    "Municipio": "San Bartolomé Milpas Altas",
+    "departamento": "Sacatepéquez",
+    "mayores_m": 8,
+    "mayores_f": "",
+    "menores_m": "",
+    "menores_f": "",
+    "total": 8
+  },
+  {
+    "Municipio": "San Lucas Sacatepéquez",
+    "departamento": "Sacatepéquez",
+    "mayores_m": 13,
+    "mayores_f": 4,
+    "menores_m": "",
+    "menores_f": "",
+    "total": 17
+  },
+  {
+    "Municipio": "San Miguel Dueñas",
+    "departamento": "Sacatepéquez",
+    "mayores_m": 17,
+    "mayores_f": 4,
+    "menores_m": "",
+    "menores_f": "",
+    "total": 21
+  },
+  {
+    "Municipio": "Santa Catarina Barahona",
+    "departamento": "Sacatepéquez",
+    "mayores_m": 6,
+    "mayores_f": 1,
+    "menores_m": 1,
+    "menores_f": "",
+    "total": 8
+  },
+  {
+    "Municipio": "Santa Lucía Milpas Altas",
+    "departamento": "Sacatepéquez",
+    "mayores_m": 2,
+    "mayores_f": 1,
+    "menores_m": "",
+    "menores_f": "",
+    "total": 3
+  },
+  {
+    "Municipio": "Santa María de Jesús",
+    "departamento": "Sacatepéquez",
+    "mayores_m": 4,
+    "mayores_f": 1,
+    "menores_m": "",
+    "menores_f": "",
+    "total": 5
+  },
+  {
+    "Municipio": "Santiago Sacatepéquez",
+    "departamento": "Sacatepéquez",
+    "mayores_m": 15,
+    "mayores_f": 2,
+    "menores_m": 1,
+    "menores_f": "",
+    "total": 18
+  },
+  {
+    "Municipio": "Santo Domingo Xenacoj",
+    "departamento": "Sacatepéquez",
+    "mayores_m": 20,
+    "mayores_f": 1,
+    "menores_m": "",
+    "menores_f": 1,
+    "total": 22
+  },
+  {
+    "Municipio": "Sumpango",
+    "departamento": "Sacatepéquez",
+    "mayores_m": 9,
+    "mayores_f": "",
+    "menores_m": "",
+    "menores_f": "",
+    "total": 9
+  },
+  {
+    "Municipio": "Ayutla",
+    "departamento": "San Marcos",
+    "mayores_m": 48,
+    "mayores_f": 12,
+    "menores_m": 3,
+    "menores_f": "",
+    "total": 63
+  },
+  {
+    "Municipio": "Catarina",
+    "departamento": "San Marcos",
+    "mayores_m": 60,
+    "mayores_f": 14,
+    "menores_m": "",
+    "menores_f": 1,
+    "total": 75
+  },
+  {
+    "Municipio": "Comitancillo",
+    "departamento": "San Marcos",
+    "mayores_m": 492,
+    "mayores_f": 191,
+    "menores_m": 18,
+    "menores_f": 11,
+    "total": 712
+  },
+  {
+    "Municipio": "Concepción Tutuapa",
+    "departamento": "San Marcos",
+    "mayores_m": 658,
+    "mayores_f": 101,
+    "menores_m": 35,
+    "menores_f": 26,
+    "total": 820
+  },
+  {
+    "Municipio": "El Quetzal",
+    "departamento": "San Marcos",
+    "mayores_m": 140,
+    "mayores_f": 29,
+    "menores_m": 3,
+    "menores_f": 1,
+    "total": 173
+  },
+  {
+    "Municipio": "El Rodeo",
+    "departamento": "San Marcos",
+    "mayores_m": 14,
+    "mayores_f": 5,
+    "menores_m": 3,
+    "menores_f": 1,
+    "total": 23
+  },
+  {
+    "Municipio": "El Tumbador",
+    "departamento": "San Marcos",
+    "mayores_m": 77,
+    "mayores_f": 9,
+    "menores_m": 2,
+    "menores_f": 2,
+    "total": 90
+  },
+  {
+    "Municipio": "Esquipulas Palo Gordo",
+    "departamento": "San Marcos",
+    "mayores_m": 28,
+    "mayores_f": 3,
+    "menores_m": 1,
+    "menores_f": "",
+    "total": 32
+  },
+  {
+    "Municipio": "Ixchiguán",
+    "departamento": "San Marcos",
+    "mayores_m": 278,
+    "mayores_f": 57,
+    "menores_m": 12,
+    "menores_f": 7,
+    "total": 354
+  },
+  {
+    "Municipio": "La Blanca",
+    "departamento": "San Marcos",
+    "mayores_m": 4,
+    "mayores_f": 1,
+    "menores_m": "",
+    "menores_f": 1,
+    "total": 6
+  },
+  {
+    "Municipio": "La Reforma",
+    "departamento": "San Marcos",
+    "mayores_m": 91,
+    "mayores_f": 13,
+    "menores_m": 3,
+    "menores_f": 1,
+    "total": 108
+  },
+  {
+    "Municipio": "Malacatán",
+    "departamento": "San Marcos",
+    "mayores_m": 519,
+    "mayores_f": 73,
+    "menores_m": 16,
+    "menores_f": 17,
+    "total": 625
+  },
+  {
+    "Municipio": "Nuevo Progreso",
+    "departamento": "San Marcos",
+    "mayores_m": 169,
+    "mayores_f": 24,
+    "menores_m": 5,
+    "menores_f": 2,
+    "total": 200
+  },
+  {
+    "Municipio": "Ocós",
+    "departamento": "San Marcos",
+    "mayores_m": 115,
+    "mayores_f": 13,
+    "menores_m": 4,
+    "menores_f": 7,
+    "total": 139
+  },
+  {
+    "Municipio": "Pajapita",
+    "departamento": "San Marcos",
+    "mayores_m": 73,
+    "mayores_f": 18,
+    "menores_m": 2,
+    "menores_f": 1,
+    "total": 94
+  },
+  {
+    "Municipio": "Río Blanco",
+    "departamento": "San Marcos",
+    "mayores_m": 29,
+    "mayores_f": 5,
+    "menores_m": "",
+    "menores_f": "",
+    "total": 34
+  },
+  {
+    "Municipio": "San Antonio Sacatepéquez",
+    "departamento": "San Marcos",
+    "mayores_m": 96,
+    "mayores_f": 12,
+    "menores_m": 1,
+    "menores_f": "",
+    "total": 109
+  },
+  {
+    "Municipio": "San Cristóbal Cucho",
+    "departamento": "San Marcos",
+    "mayores_m": 135,
+    "mayores_f": 27,
+    "menores_m": 4,
+    "menores_f": 3,
+    "total": 169
+  },
+  {
+    "Municipio": "San José El Rodeo",
+    "departamento": "San Marcos",
+    "mayores_m": 2,
+    "mayores_f": 2,
+    "menores_m": "",
+    "menores_f": "",
+    "total": 4
+  },
+  {
+    "Municipio": "San José Ojetenam",
+    "departamento": "San Marcos",
+    "mayores_m": 165,
+    "mayores_f": 24,
+    "menores_m": 3,
+    "menores_f": "",
+    "total": 192
+  },
+  {
+    "Municipio": "San Lorenzo",
+    "departamento": "San Marcos",
+    "mayores_m": 84,
+    "mayores_f": 18,
+    "menores_m": 3,
+    "menores_f": "",
+    "total": 105
+  },
+  {
+    "Municipio": "San Marcos",
+    "departamento": "San Marcos",
+    "mayores_m": 291,
+    "mayores_f": 55,
+    "menores_m": 21,
+    "menores_f": 18,
+    "total": 385
+  },
+  {
+    "Municipio": "San Miguel Ixtaguacán",
+    "departamento": "San Marcos",
+    "mayores_m": 342,
+    "mayores_f": 90,
+    "menores_m": 13,
+    "menores_f": 10,
+    "total": 455
+  },
+  {
+    "Municipio": "San Pablo and San Marcos",
+    "departamento": "San Marcos",
+    "mayores_m": 238,
+    "mayores_f": 41,
+    "menores_m": 2,
+    "menores_f": 3,
+    "total": 284
+  },
+  {
+    "Municipio": "San Pedro Sacatepéquez",
+    "departamento": "San Marcos",
+    "mayores_m": 275,
+    "mayores_f": 41,
+    "menores_m": 9,
+    "menores_f": 8,
+    "total": 333
+  },
+  {
+    "Municipio": "San Rafael Pie de La Cuesta",
+    "departamento": "San Marcos",
+    "mayores_m": 44,
+    "mayores_f": 11,
+    "menores_m": 2,
+    "menores_f": 1,
+    "total": 58
+  },
+  {
+    "Municipio": "Sibinal",
+    "departamento": "San Marcos",
+    "mayores_m": 82,
+    "mayores_f": 9,
+    "menores_m": "",
+    "menores_f": 3,
+    "total": 94
+  },
+  {
+    "Municipio": "Sipacapa",
+    "departamento": "San Marcos",
+    "mayores_m": 167,
+    "mayores_f": 38,
+    "menores_m": 4,
+    "menores_f": 6,
+    "total": 215
+  },
+  {
+    "Municipio": "Tacaná",
+    "departamento": "San Marcos",
+    "mayores_m": 544,
+    "mayores_f": 61,
+    "menores_m": 20,
+    "menores_f": 8,
+    "total": 633
+  },
+  {
+    "Municipio": "Tajumulco",
+    "departamento": "San Marcos",
+    "mayores_m": 730,
+    "mayores_f": 101,
+    "menores_m": 34,
+    "menores_f": 22,
+    "total": 887
+  },
+  {
+    "Municipio": "Tejutla",
+    "departamento": "San Marcos",
+    "mayores_m": 230,
+    "mayores_f": 33,
+    "menores_m": 11,
+    "menores_f": 5,
+    "total": 279
+  },
+  {
+    "Municipio": "Barberena",
+    "departamento": "Santa Rosa",
+    "mayores_m": 86,
+    "mayores_f": 14,
+    "menores_m": 1,
+    "menores_f": 2,
+    "total": 103
+  },
+  {
+    "Municipio": "Casillas",
+    "departamento": "Santa Rosa",
+    "mayores_m": 148,
+    "mayores_f": 14,
+    "menores_m": 5,
+    "menores_f": 1,
+    "total": 168
+  },
+  {
+    "Municipio": "Chiquimulilla",
+    "departamento": "Santa Rosa",
+    "mayores_m": 139,
+    "mayores_f": 23,
+    "menores_m": 3,
+    "menores_f": 10,
+    "total": 175
+  },
+  {
+    "Municipio": "Cuilapa",
+    "departamento": "Santa Rosa",
+    "mayores_m": 181,
+    "mayores_f": 25,
+    "menores_m": 12,
+    "menores_f": 7,
+    "total": 225
+  },
+  {
+    "Municipio": "Guazacapán",
+    "departamento": "Santa Rosa",
+    "mayores_m": 10,
+    "mayores_f": 2,
+    "menores_m": 1,
+    "menores_f": 1,
+    "total": 14
+  },
+  {
+    "Municipio": "Nueva Santa Rosa",
+    "departamento": "Santa Rosa",
+    "mayores_m": 146,
+    "mayores_f": 15,
+    "menores_m": 2,
+    "menores_f": 2,
+    "total": 165
+  },
+  {
+    "Municipio": "Oratorio",
+    "departamento": "Santa Rosa",
+    "mayores_m": 43,
+    "mayores_f": 6,
+    "menores_m": 2,
+    "menores_f": 1,
+    "total": 52
+  },
+  {
+    "Municipio": "Pueblo Nuevo Viñas",
+    "departamento": "Santa Rosa",
+    "mayores_m": 18,
+    "mayores_f": 5,
+    "menores_m": "",
+    "menores_f": "",
+    "total": 23
+  },
+  {
+    "Municipio": "San Juan Tecuaco",
+    "departamento": "Santa Rosa",
+    "mayores_m": 18,
+    "mayores_f": 3,
+    "menores_m": 1,
+    "menores_f": "",
+    "total": 22
+  },
+  {
+    "Municipio": "San Rafael Las Flores",
+    "departamento": "Santa Rosa",
+    "mayores_m": 39,
+    "mayores_f": 2,
+    "menores_m": 1,
+    "menores_f": "",
+    "total": 42
+  },
+  {
+    "Municipio": "Santa Cruz Naranjo",
+    "departamento": "Santa Rosa",
+    "mayores_m": 26,
+    "mayores_f": 3,
+    "menores_m": 1,
+    "menores_f": "",
+    "total": 30
+  },
+  {
+    "Municipio": "Santa María Ixhuatán",
+    "departamento": "Santa Rosa",
+    "mayores_m": 60,
+    "mayores_f": 9,
+    "menores_m": "",
+    "menores_f": "",
+    "total": 69
+  },
+  {
+    "Municipio": "Santa Rosa de Lima",
+    "departamento": "Santa Rosa",
+    "mayores_m": 80,
+    "mayores_f": 14,
+    "menores_m": 1,
+    "menores_f": 2,
+    "total": 97
+  },
+  {
+    "Municipio": "Taxisco",
+    "departamento": "Santa Rosa",
+    "mayores_m": 30,
+    "mayores_f": 7,
+    "menores_m": 1,
+    "menores_f": "",
+    "total": 38
+  },
+  {
+    "Municipio": "Concepción",
+    "departamento": "Sololá",
+    "mayores_m": 29,
+    "mayores_f": 1,
+    "menores_m": "",
+    "menores_f": "",
+    "total": 30
+  },
+  {
+    "Municipio": "Nahualá",
+    "departamento": "Sololá",
+    "mayores_m": 715,
+    "mayores_f": 70,
+    "menores_m": 17,
+    "menores_f": 6,
+    "total": 808
+  },
+  {
+    "Municipio": "Panajachel",
+    "departamento": "Sololá",
+    "mayores_m": 29,
+    "mayores_f": 1,
+    "menores_m": "",
+    "menores_f": 2,
+    "total": 32
+  },
+  {
+    "Municipio": "San Andrés Semetebaj",
+    "departamento": "Sololá",
+    "mayores_m": 58,
+    "mayores_f": 5,
+    "menores_m": "",
+    "menores_f": "",
+    "total": 63
+  },
+  {
+    "Municipio": "San Antonio Palopó",
+    "departamento": "Sololá",
+    "mayores_m": 84,
+    "mayores_f": 11,
+    "menores_m": 1,
+    "menores_f": 1,
+    "total": 97
+  },
+  {
+    "Municipio": "San José Chacayá",
+    "departamento": "Sololá",
+    "mayores_m": 10,
+    "mayores_f": 4,
+    "menores_m": 1,
+    "menores_f": "",
+    "total": 15
+  },
+  {
+    "Municipio": "San Juan La Laguna",
+    "departamento": "Sololá",
+    "mayores_m": 49,
+    "mayores_f": 6,
+    "menores_m": "",
+    "menores_f": "",
+    "total": 55
+  },
+  {
+    "Municipio": "San Lucas Tolimán",
+    "departamento": "Sololá",
+    "mayores_m": 50,
+    "mayores_f": 2,
+    "menores_m": "",
+    "menores_f": "",
+    "total": 52
+  },
+  {
+    "Municipio": "San Marcos La Laguna",
+    "departamento": "Sololá",
+    "mayores_m": 7,
+    "mayores_f": 1,
+    "menores_m": "",
+    "menores_f": "",
+    "total": 8
+  },
+  {
+    "Municipio": "San Pablo La Laguna",
+    "departamento": "Sololá",
+    "mayores_m": 11,
+    "mayores_f": 2,
+    "menores_m": "",
+    "menores_f": 1,
+    "total": 14
+  },
+  {
+    "Municipio": "San Pedro La Laguna",
+    "departamento": "Sololá",
+    "mayores_m": 20,
+    "mayores_f": 4,
+    "menores_m": 1,
+    "menores_f": "",
+    "total": 25
+  },
+  {
+    "Municipio": "Santa Catarina Ixtahuacán",
+    "departamento": "Sololá",
+    "mayores_m": 407,
+    "mayores_f": 33,
+    "menores_m": 4,
+    "menores_f": 4,
+    "total": 448
+  },
+  {
+    "Municipio": "Santa Catarina Palopó",
+    "departamento": "Sololá",
+    "mayores_m": 29,
+    "mayores_f": 2,
+    "menores_m": "",
+    "menores_f": "",
+    "total": 31
+  },
+  {
+    "Municipio": "Santa Clara La Laguna",
+    "departamento": "Sololá",
+    "mayores_m": 76,
+    "mayores_f": 14,
+    "menores_m": 2,
+    "menores_f": 1,
+    "total": 93
+  },
+  {
+    "Municipio": "Santa Cruz La Laguna",
+    "departamento": "Sololá",
+    "mayores_m": 35,
+    "mayores_f": 2,
+    "menores_m": "",
+    "menores_f": "",
+    "total": 37
+  },
+  {
+    "Municipio": "Santa Lucía Utatlán",
+    "departamento": "Sololá",
+    "mayores_m": 82,
+    "mayores_f": 15,
+    "menores_m": 1,
+    "menores_f": "",
+    "total": 98
+  },
+  {
+    "Municipio": "Santa María Visitación",
+    "departamento": "Sololá",
+    "mayores_m": 10,
+    "mayores_f": 1,
+    "menores_m": "",
+    "menores_f": "",
+    "total": 11
+  },
+  {
+    "Municipio": "Santiago Atitlán",
+    "departamento": "Sololá",
+    "mayores_m": 17,
+    "mayores_f": "",
+    "menores_m": "",
+    "menores_f": "",
+    "total": 17
+  },
+  {
+    "Municipio": "Sololá",
+    "departamento": "Sololá",
+    "mayores_m": 410,
+    "mayores_f": 41,
+    "menores_m": 14,
+    "menores_f": 5,
+    "total": 470
+  },
+  {
+    "Municipio": "Chicacao",
+    "departamento": "Suchitepéquez",
+    "mayores_m": 115,
+    "mayores_f": 8,
+    "menores_m": 4,
+    "menores_f": 1,
+    "total": 128
+  },
+  {
+    "Municipio": "Cuyotenango",
+    "departamento": "Suchitepéquez",
+    "mayores_m": 135,
+    "mayores_f": 27,
+    "menores_m": 2,
+    "menores_f": 2,
+    "total": 166
+  },
+  {
+    "Municipio": "Mazatenango",
+    "departamento": "Suchitepéquez",
+    "mayores_m": 449,
+    "mayores_f": 80,
+    "menores_m": 29,
+    "menores_f": 16,
+    "total": 574
+  },
+  {
+    "Municipio": "Patulúl",
+    "departamento": "Suchitepéquez",
+    "mayores_m": 34,
+    "mayores_f": 6,
+    "menores_m": "",
+    "menores_f": "",
+    "total": 40
+  },
+  {
+    "Municipio": "Pueblo Nuevo",
+    "departamento": "Suchitepéquez",
+    "mayores_m": 23,
+    "mayores_f": 4,
+    "menores_m": 1,
+    "menores_f": 1,
+    "total": 29
+  },
+  {
+    "Municipio": "Río Bravo",
+    "departamento": "Suchitepéquez",
+    "mayores_m": 10,
+    "mayores_f": 5,
+    "menores_m": "",
+    "menores_f": "",
+    "total": 15
+  },
+  {
+    "Municipio": "Samayac",
+    "departamento": "Suchitepéquez",
+    "mayores_m": 30,
+    "mayores_f": 9,
+    "menores_m": 3,
+    "menores_f": "",
+    "total": 42
+  },
+  {
+    "Municipio": "San Antonio Suchitepéquez",
+    "departamento": "Suchitepéquez",
+    "mayores_m": 114,
+    "mayores_f": 29,
+    "menores_m": 4,
+    "menores_f": 3,
+    "total": 150
+  },
+  {
+    "Municipio": "San Bernardino",
+    "departamento": "Suchitepéquez",
+    "mayores_m": 42,
+    "mayores_f": 7,
+    "menores_m": 1,
+    "menores_f": 3,
+    "total": 53
+  },
+  {
+    "Municipio": "San Francisco Zapotitlán",
+    "departamento": "Suchitepéquez",
+    "mayores_m": 33,
+    "mayores_f": 5,
+    "menores_m": "",
+    "menores_f": "",
+    "total": 38
+  },
+  {
+    "Municipio": "San Gabriel",
+    "departamento": "Suchitepéquez",
+    "mayores_m": 8,
+    "mayores_f": "",
+    "menores_m": "",
+    "menores_f": "",
+    "total": 8
+  },
+  {
+    "Municipio": "San José El Ídolo",
+    "departamento": "Suchitepéquez",
+    "mayores_m": 35,
+    "mayores_f": 8,
+    "menores_m": "",
+    "menores_f": "",
+    "total": 43
+  },
+  {
+    "Municipio": "San Juan Bautista",
+    "departamento": "Suchitepéquez",
+    "mayores_m": 6,
+    "mayores_f": 2,
+    "menores_m": "",
+    "menores_f": "",
+    "total": 8
+  },
+  {
+    "Municipio": "San Lorenzo",
+    "departamento": "Suchitepéquez",
+    "mayores_m": 40,
+    "mayores_f": 8,
+    "menores_m": "",
+    "menores_f": 1,
+    "total": 49
+  },
+  {
+    "Municipio": "San Miguel Panán",
+    "departamento": "Suchitepéquez",
+    "mayores_m": 47,
+    "mayores_f": 5,
+    "menores_m": 3,
+    "menores_f": 1,
+    "total": 56
+  },
+  {
+    "Municipio": "San Pablo Jocopilas",
+    "departamento": "Suchitepéquez",
+    "mayores_m": 41,
+    "mayores_f": 5,
+    "menores_m": 4,
+    "menores_f": 1,
+    "total": 51
+  },
+  {
+    "Municipio": "Santa Bárbara",
+    "departamento": "Suchitepéquez",
+    "mayores_m": 17,
+    "mayores_f": 6,
+    "menores_m": "",
+    "menores_f": "",
+    "total": 23
+  },
+  {
+    "Municipio": "Santo Domingo Suchitepéquez",
+    "departamento": "Suchitepéquez",
+    "mayores_m": 183,
+    "mayores_f": 29,
+    "menores_m": 4,
+    "menores_f": 3,
+    "total": 219
+  },
+  {
+    "Municipio": "Santo Tomas La Unión",
+    "departamento": "Suchitepéquez",
+    "mayores_m": 46,
+    "mayores_f": 6,
+    "menores_m": 1,
+    "menores_f": "",
+    "total": 53
+  },
+  {
+    "Municipio": "Zunilito",
+    "departamento": "Suchitepéquez",
+    "mayores_m": 3,
+    "mayores_f": 1,
+    "menores_m": "",
+    "menores_f": "",
+    "total": 4
+  },
+  {
+    "Municipio": "Momostenango",
+    "departamento": "Totonicapán",
+    "mayores_m": 514,
+    "mayores_f": 73,
+    "menores_m": 16,
+    "menores_f": 11,
+    "total": 614
+  },
+  {
+    "Municipio": "San Andrés Xecul",
+    "departamento": "Totonicapán",
+    "mayores_m": 144,
+    "mayores_f": 32,
+    "menores_m": 1,
+    "menores_f": "",
+    "total": 177
+  },
+  {
+    "Municipio": "San Bartolo",
+    "departamento": "Totonicapán",
+    "mayores_m": 54,
+    "mayores_f": 13,
+    "menores_m": "",
+    "menores_f": 1,
+    "total": 68
+  },
+  {
+    "Municipio": "San Cristóbal Totonicapán",
+    "departamento": "Totonicapán",
+    "mayores_m": 181,
+    "mayores_f": 39,
+    "menores_m": 3,
+    "menores_f": 3,
+    "total": 226
+  },
+  {
+    "Municipio": "San Francisco El Alto",
+    "departamento": "Totonicapán",
+    "mayores_m": 158,
+    "mayores_f": 27,
+    "menores_m": 2,
+    "menores_f": 1,
+    "total": 188
+  },
+  {
+    "Municipio": "Santa Lucía La Reforma",
+    "departamento": "Totonicapán",
+    "mayores_m": 22,
+    "mayores_f": 6,
+    "menores_m": 3,
+    "menores_f": 1,
+    "total": 32
+  },
+  {
+    "Municipio": "Santa María Chiquimula",
+    "departamento": "Totonicapán",
+    "mayores_m": 65,
+    "mayores_f": 6,
+    "menores_m": 2,
+    "menores_f": 2,
+    "total": 75
+  },
+  {
+    "Municipio": "Totonicapán",
+    "departamento": "Totonicapán",
+    "mayores_m": 739,
+    "mayores_f": 161,
+    "menores_m": 22,
+    "menores_f": 16,
+    "total": 938
+  },
+  {
+    "Municipio": "Cabañas",
+    "departamento": "Zacapa",
+    "mayores_m": 36,
+    "mayores_f": 8,
+    "menores_m": "",
+    "menores_f": "",
+    "total": 44
+  },
+  {
+    "Municipio": "Estanzuela",
+    "departamento": "Zacapa",
+    "mayores_m": 13,
+    "mayores_f": 3,
+    "menores_m": 1,
+    "menores_f": 1,
+    "total": 18
+  },
+  {
+    "Municipio": "Gualán",
+    "departamento": "Zacapa",
+    "mayores_m": 137,
+    "mayores_f": 22,
+    "menores_m": 4,
+    "menores_f": 4,
+    "total": 167
+  },
+  {
+    "Municipio": "Huité",
+    "departamento": "Zacapa",
+    "mayores_m": 22,
+    "mayores_f": 0,
+    "menores_m": "",
+    "menores_f": "",
+    "total": 22
+  },
+  {
+    "Municipio": "La Unión",
+    "departamento": "Zacapa",
+    "mayores_m": 60,
+    "mayores_f": 11,
+    "menores_m": 1,
+    "menores_f": 2,
+    "total": 74
+  },
+  {
+    "Municipio": "Río Hondo",
+    "departamento": "Zacapa",
+    "mayores_m": 16,
+    "mayores_f": 9,
+    "menores_m": 1,
+    "menores_f": 1,
+    "total": 27
+  },
+  {
+    "Municipio": "San Diego",
+    "departamento": "Zacapa",
+    "mayores_m": 20,
+    "mayores_f": 3,
+    "menores_m": 1,
+    "menores_f": 1,
+    "total": 25
+  },
+  {
+    "Municipio": "Teculután",
+    "departamento": "Zacapa",
+    "mayores_m": 19,
+    "mayores_f": 3,
+    "menores_m": "",
+    "menores_f": 1,
+    "total": 23
+  },
+  {
+    "Municipio": "Usumatlán",
+    "departamento": "Zacapa",
+    "mayores_m": 32,
+    "mayores_f": 6,
+    "menores_m": 1,
+    "menores_f": "",
+    "total": 39
+  },
+  {
+    "Municipio": "Zacapa",
+    "departamento": "Zacapa",
+    "mayores_m": 153,
+    "mayores_f": 33,
+    "menores_m": 13,
+    "menores_f": 11,
+    "total": 210
+  }
+]
+}

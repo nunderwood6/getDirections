@@ -6,11 +6,17 @@
 const fs = require('fs');
 const polyline = require('polyline');
 const googleMapsClient = require('@google/maps').createClient({
-  key: 'YOUR API KEY HERE'
+  key: 'YOUR API KEY HERE',
+  Promise: Promise
 });
 
+var GoogleWizard = function(){
+
+};
+
+
 //pass string, string, array
-function getDirectionsGeojson(origin, destination, waypoints) {
+GoogleWizard.prototype.getDirectionsGeojson = function(origin, destination, waypoints) {
 	
 	var config = {
 	  	"origin": origin,
@@ -62,15 +68,24 @@ function getDirectionsGeojson(origin, destination, waypoints) {
 
 }
 
-//returns object with lat and lng properties
-function geocode(location){
+
+GoogleWizard.prototype.geocode = async(location) => {
+	
 	// Geocode an address.
-	googleMapsClient.geocode({
-	  address: location
-	}, function(err, response) {
-	  if (!err) {
-	    console.log(response.json.results[0].geometry.location);
-	  }
-	});
+	var result = await googleMapsClient.geocode({address: location})
+		.asPromise()
+		.then((response) => {
+		  	//console.log(response.json.results[0].geometry.location);
+		    return response.json.results[0].geometry.location;
+		})
+		.catch((err) => {
+			console.log(err);
+		});
+
+		return result;
+
 }
+
+
+module.exports = GoogleWizard;
 
